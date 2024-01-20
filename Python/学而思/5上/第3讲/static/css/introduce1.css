@@ -1,0 +1,14 @@
+h1{
+    color:white;
+    -webkit-text-stroke: 1px black;
+}
+p{
+    color:white;
+    -webkit-text-stroke: 1px black;
+}
+
+body{
+    background-image:url('/static/images/bg1.png');
+    background-size:100%;
+    text-align:center;
+}
